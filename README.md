@@ -2,7 +2,7 @@
 <h3 align="center">Data Science enthusiasts</h3>
 
 
-<img align="right" alt="coding" width="500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvsgif.com%2Fgif%2F1379612&psig=AOvVaw3Y062vjeBpJQVrBGYD4V7G&ust=1721367818842000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCs_4fxr4cDFQAAAAAdAAAAABAY">
+<img align="right" alt="coding" width="500" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absatpute&label=Profile%20views&color=0e75b6&style=flat" alt="absatpute" /> </p>
 
