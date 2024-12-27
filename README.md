@@ -9,7 +9,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 
-- 👨‍💻 All of my projects are available at [https://absatpute.github.io/](https://absatpute.github.io/)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/ABSatpute?tab=repositories)
 
 - Visit My Portfolio Website [https://absatpute.github.io/](https://absatpute.github.io/)
 
